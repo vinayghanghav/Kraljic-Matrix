@@ -3,7 +3,7 @@ import pickle
 import numpy as np
 
 # Load the trained model
-model = pickle.load(open("model.pkl", "rb"))
+model = pickle.load(open("Process.pkl", "rb"))
 
 st.set_page_config(page_title="AI Procurement Strategy Engine", layout="centered")
 
