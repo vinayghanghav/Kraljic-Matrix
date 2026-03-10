@@ -46,3 +46,4 @@ if st.button("Predict Kraljic Category"):
         st.info("🟡 Strategy: Reduce supply risk & identify alternative suppliers.")
     elif prediction == "Non-Critical":
         st.info("⚪ Strategy: Automate procurement & simplify ordering process.")
+
